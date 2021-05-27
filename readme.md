@@ -16,3 +16,14 @@ then, open the contents folder.
 next, Open the MacOS folder
 finally, run the global_warming_edu_app app by double clicking the file in that folder
 do not delete anything in this folder, the process is tricky and it needs all the files to run. 
+By default MacOS will block the file from running. so here is how youu run it:
+after double clikcing the terminal proess, it should give you a warning.  
+go to system preferences, and the security tab.
+go over to general, 
+and on the bottom third of the window, will be a button saying "open anyway"
+click that.
+after that, another window will open with 2 buttons
+click open.
+then, a terminal window should open. full screen it, and play!
+---------------------------------------
+thank you to all who helped us. namely stack overflow..........
